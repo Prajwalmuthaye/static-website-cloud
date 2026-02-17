@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: #f4f6f9;
+    color: #333;
+}
+
+/* container */
+.container {
+    width: 90%;
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+}
+
+/* header */
+.header {
+    background: linear-gradient(135deg, #0d6efd, #6610f2);
+    color: white;
+    padding: 40px 0;
+}
+
+/* hero */
+.hero {
+    padding: 50px 20px;
+}
+
+/* button */
+.btn {
+    background: #0d6efd;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #084298;
+}
+
+/* message */
+.message {
+    margin-top: 20px;
+    font-weight: 500;
+    color: green;
+}
+
+/* card */
+.info-card {
+    background: white;
+    padding: 25px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* footer */
+.footer {
+    margin-top: 60px;
+    background: #222;
+    color: white;
+    padding: 20px;
+}
