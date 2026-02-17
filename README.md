@@ -89,5 +89,32 @@ Replace `YOUR-BUCKET-NAME`.
 
 ```
 index.html
-`
 ```
+
+6. Create distribution
+
+Wait 5–10 minutes for deployment.
+
+---
+
+## 🌍 Website URL
+
+CloudFront URL:
+
+```
+https://d29bdc5goo4kib.cloudfront.net
+```
+
+Open in browser to view the site.
+
+---
+
+## 🔐 Security Features
+
+* HTTPS enabled
+* CDN caching
+* Public read policy
+* CloudFront protection
+* Faster global delivery
+
+---
